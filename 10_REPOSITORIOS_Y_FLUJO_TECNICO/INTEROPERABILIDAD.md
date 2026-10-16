@@ -1,0 +1,3 @@
+# Interoperabilidad
+
+El Framework 5.2.0 y schema/package 0.1.0 son identificadores distintos. El núcleo portable contempla manifest, estado, portafolio, decisiones, transferencias y esquemas. Equivalencia app / entrevista aún pendiente de roundtrip: exportar, continuar externamente, reimportar y preservar significado, identidad de origen, decisiones y procedencia. Separar roundtrip técnico, transferencia de aprendizajes al Framework y adaptación crítica entre contextos.
