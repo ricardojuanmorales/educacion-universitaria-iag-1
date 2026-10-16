@@ -1,26 +1,33 @@
 # Educación universitaria e IAG | IA en Acción
 
-**Estado:** activación inicial **INTEGRATE aprobada** el 15 de octubre de 2026. Proyecto habilitado para comenzar trabajo investigador conceptual y técnico no sensible, con gates específicos posteriores.
+**Modo:** INTEGRATE · **Framework rector:** v5.2 · **Gate:** aprobado el 15 de octubre de 2026.
 
-## Propósito
-Estudio cualitativo instrumental sobre la integración de inteligencia artificial generativa en la enseñanza universitaria de ciencias físicas en Puerto Rico. De forma separada, investigación metodológica del Framework v5.2 sobre activación asistida por expertos y equivalencia con la aplicación. Las evidencias y autorizaciones de ambos planos no son intercambiables.
+Proyecto de investigación sobre integración situada de IAG en enseñanza universitaria de ciencias físicas. En paralelo, estudio metodológico independiente de activación dialógica del Framework, sus aplicaciones, portafolios y transferencia reversible.
 
-## Referencias de trabajo
-- [Framework v5.2](https://github.com/ricardojuanmorales/framework-proyecto-generico-ia-1): referente de estructura, contratos, gobernanza, portabilidad y transferencia. Modo **INTEGRATE** para proyecto existente.
-- [AI StoryLab 1](https://github.com/ricardojuanmorales/ai-storylab-1): metodología SDD proporcional por aplicación.
-- [Materia Mundi](https://github.com/ricardojuanmorales/materia-mundi-101): modelo de portal común con aplicaciones modulares en subrutas y GitHub Actions sujeto a revisión.
-- **Marco Mundi v1.0.0:** metodología especializada invocable, no requisito general de Start ni segundo canon.
+## Navegación del cartapacio
 
-**Lentes:** IT, AT, PH para el trabajo metodológico. **N1:** marcador técnico inicial revisable, no evaluación de madurez del equipo.
+**Infraestructura activada:** cartapacios `00_CONTROL_MAESTRO` a `21_WIKI_DOCUMENTACION_HUMANA`, más `99_ARCHIVO_HISTORICO`. Son espacios proporcionales de trabajo, no una copia íntegra del repositorio maestro ni una exigencia de completarlos todos.
 
-## Documentación
-- [Acta de activación y alcance](00_CONTROL/ACTA_ACTIVACION_INTEGRATE_2026-10-15.md)
-- [Deuda trasladada a la próxima sesión oficial](18_CONTINUIDAD/DEUDA_PROXIMA_SESION.md)
+- [Estado de activación](00_CONTROL_MAESTRO/ESTADO_ACTIVACION.md) y [acta humana original](00_CONTROL/ACTA_ACTIVACION_INTEGRATE_2026-10-15.md)
+- [Mapa de arquitectura](02_ARQUITECTURA_CONCEPTUAL/MAPA_ESTRUCTURAL.md)
+- [Ficha pública INTEGRATE](07_PLANTILLAS_Y_MODELOS/FICHA_INTEGRATE_PUBLICA.md)
+- [Contrato de interoperabilidad](10_REPOSITORIOS_Y_FLUJO_TECNICO/INTEROPERABILIDAD.md)
+- [Índice de documentos y custodia](18_DOCUMENTACION_ACTIVA/INDICE_DOCUMENTAL.md)
+- [Privacidad y límites de publicación](16_SEGURIDAD_PRIVACIDAD_Y_DATOS/NO_PUBLICAR_DATOS_SENSIBLES.md)
+- [Plan inicial de aplicaciones](19_IMPLEMENTACION_Y_DESPLIEGUE/PLAN_INICIAL.md)
+- [Deuda para la próxima sesión](18_CONTINUIDAD/DEUDA_PROXIMA_SESION.md)
 
-## Privacidad y gobernanza
-Este repositorio es público. No cargar transcripciones, documentos de consentimiento, expedientes, trabajos estudiantiles ni información identificable o restringida. El cotejo institucional **2C** sigue pendiente para nuevos tratamientos de datos humanos. Los portafolios personales son **local-first y privados por defecto**; compartir requiere decisión humana expresa.
+## Dónde está la documentación completa
 
-## Primer trabajo después de activar
-Seleccionar una primera necesidad educativa/investigativa verificable y redactar su **spec SDD mínima** (propósito, datos/riesgos, criterios de aceptación, pruebas y gate humano). La prueba de transferencia semántica entre aplicación y entrevista, el despliegue del portal y el retorno de aprendizajes al canon se mantienen como tareas posteriores independientes.
+**No toda está en GitHub**: la historia extensa, análisis doctorales, entrevistas, propuestas e instrumentos se entregan como **cartapacio local ZIP** desde la conversación de trabajo. El índice identifica los documentos y su custodia. No fueron publicados íntegramente porque este repositorio es público y contienen material potencialmente sensible o pendiente de evaluación de permisos.
 
-**Importante:** la activación aprobada no demuestra ya la interoperabilidad ni autoriza despliegue de aplicaciones o publicaciones de evidencia restringida.
+## Referencias y criterios
+
+- [Framework v5.2](https://github.com/ricardojuanmorales/framework-proyecto-generico-ia-1) define arquitectura, perfiles IT/AT/PH, contratos y portabilidad.
+- [AI StoryLab 1](https://github.com/ricardojuanmorales/ai-storylab-1) es referencia metodológica de SDD proporcional.
+- [Materia Mundi](https://github.com/ricardojuanmorales/materia-mundi-101) es referencia técnica para el portal de aplicaciones y GitHub Actions.
+- Marco Mundi es metodología especializada invocable y no un segundo canon obligatorio.
+
+**Privacidad:** portafolios privados por defecto y datos sensibles fuera del repositorio. La investigación doctoral sigue su propio protocolo y el cotejo institucional 2C está pendiente. La aprobación de INTEGRATE habilita trabajo no sensible, no prueba equivalencia del roundtrip ni autoriza publicar evidencia restringida.
+
+**Siguiente trabajo:** primera necesidad verificable, especificación SDD mínima y prototipo bajo gate humano.
