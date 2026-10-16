@@ -1,0 +1,3 @@
+# Ficha INTEGRATE publicable
+
+Modo: INTEGRATE. Framework: 5.2.0. Schema de referencia: 0.1.0. Proyecto: educacion-universitaria-iag-1. Problema: integración situada de IAG en enseñanza universitaria y evaluación separada de la metodología Framework. Contexto: ciencias físicas universitarias en Puerto Rico. Propósito: investigación y diseño responsable de medios interactivos. Perfiles: IT, AT y PH. Madurez N1: provisional. Riesgos: privacidad, procedencia, gobernanza y equivalencia aún no probada. Próximo bloque: primera necesidad verificable y especificación SDD mínima.
